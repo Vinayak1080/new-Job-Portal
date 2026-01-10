@@ -15,7 +15,7 @@ Admin Dashboard: Admin panel for managing users, job listings, and other setting
 
 
 
-2. Technologies Used
+2. Technologies Used :
 Frontend: React.js
 Dynamic and responsive UI.
 State management with React Context API or Redux for better control.
