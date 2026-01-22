@@ -1,4 +1,4 @@
-Name : VINAYAK LAXMIKANT SHETTI.
+Name : VINAYAK LAXMIKANT SHETTI
 Duration : Sep 2024 - Nov 2024
 Project guide :  Shrihari Joshi.
 
