@@ -2,7 +2,6 @@ Name : VINAYAK LAXMIKANT SHETTI
 Duration : Sep 2024 - Nov 2024
 Project guide :  Shrihari Joshi.
 
-
 1. Project Requirements and Objectives :
 Objective: To create a platform that connects job seekers with employers, allowing job listings, applications, and profile management.
 Core Features:
