@@ -5,7 +5,7 @@ Project guide :  Shrihari Joshi.
 1. Project Requirements and Objectives :
 Objective: To create a platform that connects job seekers with employers, allowing job listings, applications, and profile management.
 Core Features:
-User Authentication: User registration and login for job seekers and employers.
+User Authentication: User registration and login for job seekers and employers
 Profile Management: Personal profiles for job seekers and company profiles for employers.
 Job Listings: Employers can post job openings, while job seekers can browse and filter job listings.
 Search and Filters: Advanced search functionality with filters (e.g., job type, location, experience level).
